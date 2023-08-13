@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brainiac-The-face-detection-app/static/css/main.6170c43b.css",
+    "main.js": "/Brainiac-The-face-detection-app/static/js/main.5870908a.js",
+    "index.html": "/Brainiac-The-face-detection-app/index.html",
+    "main.6170c43b.css.map": "/Brainiac-The-face-detection-app/static/css/main.6170c43b.css.map",
+    "main.5870908a.js.map": "/Brainiac-The-face-detection-app/static/js/main.5870908a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6170c43b.css",
+    "static/js/main.5870908a.js"
+  ]
+}
